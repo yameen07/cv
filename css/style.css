@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+hr{
+  border-top: dotted grey;
+  border-bottom: 0;
+  width: 7%;
+}
+h1 {
+  margin-top: 50px;
+  font-size: 280%;
+  line-height: 1;
+  font-family: 'Pacifico', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+.bottom-container{
+  position: relative;
+  top: 35px;
+  background-color: #11999E;
+  padding-top: 50px;
+}
+p {
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+}
+
+.tc {
+  background-color: #d9eeec;
+  position: relative;
+}
+
+.skillimg {
+  width: 10%;
+
+
+}
+
+.contactimg {
+  width: 8%;
+  
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+
+.mou {
+  width: 55%;
+  height: 55%;
+  position: relative;
+  bottom: 100px;
+}
+
+.Skills {
+  width: 100px;
+}
+
+.c1 {
+  position: relative;
+  left: 260px;
+}
+
+.c2 {
+  position: relative;
+  right:  300px;
+
+}
+.butn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999E);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999E);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999E);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 11px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  bottom: 20px;
+}
+
+.butn:hover {
+  background: #30E3cb;
+  background-image: -webkit-linear-gradient(top, #30E3cb, #3498db);
+  background-image: -moz-linear-gradient(top, #30E3cb, #3498db);
+  background-image: -ms-linear-gradient(top, #30E3cb, #3498db);
+  background-image: -o-linear-gradient(top, #30E3cb, #3498db);
+  background-image: linear-gradient(to bottom, #30E3cb, #3498db);
+  text-decoration: none;
+}
+.cright{
+  font-size: 20px;
+}
+.footer-link{
+color:  #66BFBF;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #ffffff;
+}
